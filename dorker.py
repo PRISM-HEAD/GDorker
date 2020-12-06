@@ -285,7 +285,7 @@ elif dtype == "3" or dtype == "03":
 	""")  
 
 else:
-	print("\n  Encountered Error, Please Retry.\n")
+	print("\n \033[1;31m Encountered Error, Please Retry.\n")
 	exit()
 
 
