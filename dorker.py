@@ -1,7 +1,5 @@
-from googlesearch import search
 import os
 import sys
-import requests
 import re
 import subprocess
 import time
@@ -16,6 +14,27 @@ logo = ''' \033[1;31m \n
    \______/ |_____/   \___/ |_|    |_| \_) \____)|_|    
                                  \033[1m\033[37m Made with \033[91m<3\033[37m By 5HR3D\033[1;m\033[0m '''
 
+print(logo)
+print("\n\n")
+
+try:
+	from googlesearch import search
+except:
+	print("Installing Requirements")
+	os.system("python3 -m pip install google")
+	os.system("clear")
+	print(logo)
+	print("\n\n  Module Installed, Please Re-run the script.\n")
+try:
+	import requests
+except:
+	print("Installing Requirements")
+	os.system("python3 -m pip install requests")
+	os.system("clear")
+	print(logo)
+	print("\n\n  Module Installed, Please Re-run the script.\n")
+
+os.system("clear")
 print(logo)
 print("\n\n")
 print("  Choose: ")
