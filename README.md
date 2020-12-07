@@ -4,7 +4,7 @@
   <br>
   GDorker
   </h1>
-<p align="center">Just a simple Google URL scraper.</p>
+<p align="center">Just a simple Google URL scraper.<br>[Beta: Under Development]</p>
 
 # Intro
 GDorker is a web scraper which scrapes Google URL's and is made purely with Python-3. It has two main scraping options:
