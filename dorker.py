@@ -67,9 +67,10 @@ if dtype == "1" or dtype == "01":
 	f = open('links.txt', 'w')
 	usrquery = input(" \033[1;33m Enter your Query: \033[1;31m")
 	numoflinks = input(" \033[1;33m Enter max number of links to scrape:\033[1;31m ")
+	print("\n")
 	for url in search(usrquery, stop=int(numoflinks)):
 		f.write(url + "\n")
-		print(url)
+		print("  " + url)
 	print("""
 
  ---------------------------------------------------------
