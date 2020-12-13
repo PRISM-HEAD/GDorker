@@ -24,7 +24,7 @@ Scrapes a website. After the URL of a website is given it searches for indexed l
 - Login pages
 - SQL errors
 - Publicly exposed documents
-- PHPinfo() files
+- PHPinfo() files<br>
 then register's the  results in a html file with the website's URL in its file name.
 ## Usage
 
