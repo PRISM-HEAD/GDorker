@@ -61,5 +61,5 @@ GDorker was created for educational and personal purposes only. The creators wil
 Mail: its5hr3d@protonmail.com <br>
 Or: https://linktr.ee/5HR3D
 
-### ©opyrights 5HR3D
+### © Copyrights 5HR3D
 Thank You
