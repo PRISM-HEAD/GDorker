@@ -27,6 +27,11 @@ Scrapes a website. After the URL of a website is given it searches for indexed l
 - Publicly exposed documents
 - PHPinfo() files<br>
 then register's the  results in a html file with the website's URL in its file name.
+
+## Darkweb dorking [RUDRA]
+Scrapes URL's from the darkweb from a given keyword.<br>Thanks to <a href="https://github.com/d4rk-vamp1re/">D4rk Vamp1re</a>, see the original RUDRA by clicking <a href="https://github.com/d4rk-vamp1re/Rudra">here</a>. 
+
+
 ## Usage
 
 Clone the repository
