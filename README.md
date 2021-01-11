@@ -4,12 +4,13 @@
   <br>
   GDorker
   </h1>
-<p align="center">Just a simple Google URL scraper.<br>[Beta: Under Development]</p>
+<p align="center">Just a simple Google URL scraper.</p>
 
 # Intro
 GDorker is a web scraper which scrapes Google URL's and is made purely with Python-3. It has two main scraping options:
 - <a href="https://github.com/5HR3D/GDorker#query-dorking">Query dorking</a>
 - <a href="https://github.com/5HR3D/GDorker#website-dorking">Website dorking</a>
+- <a href="https://github.com/d4rk-vamp1re/Rudra">Darkweb dorking [RUDRA]</a>
 
 ## Query dorking
 Scrapes URL's displayed in google for a specific search query given by the user and saves it to a file  named 'links.txt' and also prints the url in the  terminal. It also asks you how many top url's to scrape according to your requirements.
