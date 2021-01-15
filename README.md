@@ -57,9 +57,6 @@ $ python3 dorker.py
 - Python3-setuptools
 - Git
 
-### Note
-Do not run the script while on sudo and use python-3 only. :D
-
 ### Disclaimer 
 GDorker was created for educational and personal purposes only. The creators will not be held responsible for any violations of law caused by any means by anyone. Please use this tool at your own risk.
 
