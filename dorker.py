@@ -279,9 +279,10 @@ elif dtype == "4" or dtype == "04":
   \033[1;33m[\033[1;32m#\033[1;33m] ABOUT :>
   
   \033[1;37mGDorker \033[1;31mis a web scraper made purely with Python-3. It 
-  has two main scraping options:
+  has three scraping options:
 	-Query dorking
 	-Website dorking
+	-Darkweb dorking (RUDRA)
 \033[1;31m
   Query dorking
 	Scrapes URL's displayed in google for a specific 
@@ -304,7 +305,11 @@ elif dtype == "4" or dtype == "04":
 		     -PHPinfo() files
 
 	then register's the  results in a html file with 
-	the URL in its file name.
+	the URL as its file name.
+	
+  Rudra - Darkweb scraping
+  	Scrapes URL's from the darkweb from a given keyword.
+	
  ---------------------------------------------------------
    \033[1;33m       Contact Me:\033[1;31m https://linktr.ee/5HR3D
  ---------------------------------------------------------
