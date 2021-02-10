@@ -307,8 +307,8 @@ elif dtype == "4" or dtype == "04":
 	then register's the  results in a html file with 
 	the URL as its file name.
 	
-  Rudra - Darkweb scraping
-  	Scrapes URL's from the darkweb from a given keyword.
+  Rudra - Onion scraping
+  	Scrapes .onion URLs for a given keyword.
 	
  ---------------------------------------------------------
    \033[1;33m       Contact Me:\033[1;31m https://linktr.ee/5HR3D
