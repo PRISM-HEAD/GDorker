@@ -29,7 +29,7 @@ Scrapes a website. After the URL of a website is given it searches for indexed l
 then register's the  results in a html file with the website's URL in its file name.
 
 ## Onion dorking [RUDRA]
-Scrapes onion URL's for a given keyword.<br>Thanks to <a href="https://github.com/d4rk-vamp1re/">D4rk Vamp1re</a>.
+Scrapes onion URLs for a given keyword.<br>Thanks to <a href="https://github.com/d4rk-vamp1re/">D4rk Vamp1re</a>.
 
 ## Usage
 
