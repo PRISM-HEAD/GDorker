@@ -10,7 +10,7 @@
 GDorker is a web scraper which scrapes Google URL's and is made purely with Python-3. It has two main scraping options:
 - <a href="https://github.com/5HR3D/GDorker#query-dorking">Query dorking</a>
 - <a href="https://github.com/5HR3D/GDorker#website-dorking">Website dorking</a>
-- <a href="https://github.com/5HR3D/GDorker#darkweb-dorking-rudra">Darkweb dorking [RUDRA]</a>
+- <a href="https://github.com/5HR3D/GDorker#darkweb-dorking-rudra">Onion dorking [RUDRA]</a>
 
 ## Query dorking
 Scrapes URL's displayed in google for a specific search query given by the user and saves it to a file  named 'links.txt' and also prints the url in the  terminal. It also asks you how many top url's to scrape according to your requirements.
@@ -28,9 +28,8 @@ Scrapes a website. After the URL of a website is given it searches for indexed l
 - PHPinfo() files<br>
 then register's the  results in a html file with the website's URL in its file name.
 
-## Darkweb dorking [RUDRA]
-Scrapes URL's from the darkweb from a given keyword.<br>Thanks to <a href="https://github.com/d4rk-vamp1re/">D4rk Vamp1re</a>, see the original RUDRA by clicking <a href="https://github.com/d4rk-vamp1re/Rudra">here</a>. 
-
+## Onion dorking [RUDRA]
+Scrapes URL's from the deep web for a given keyword.<br>Thanks to <a href="https://github.com/d4rk-vamp1re/">D4rk Vamp1re</a>.
 
 ## Usage
 
